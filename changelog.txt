@@ -1,1 +1,1 @@
-Bug-fixes
+Version 0.0.2/nAdded Changelog Feature
