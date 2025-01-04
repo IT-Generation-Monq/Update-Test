@@ -1,3 +1,3 @@
 Version 0.0.3
 - Added changelog feature
-Update size: <1MB
+Update size: 888KB
