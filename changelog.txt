@@ -1,1 +1,2 @@
-Version 0.0.2/nAdded Changelog Feature
+Version 0.0.2
+Added Changelog Feature
