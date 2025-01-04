@@ -1,2 +1,5 @@
 Version 0.0.2
+-----------------------
 Added Changelog Feature
+-----------------------
+File size: 1.3MB
