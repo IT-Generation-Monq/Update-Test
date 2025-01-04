@@ -3,4 +3,4 @@ Changelog Version 0.0.2
 Added Changelog Feature
 Bug fixes
 ---------------------------------------
-File size: 1.3MB
+File size: 1.2MB
