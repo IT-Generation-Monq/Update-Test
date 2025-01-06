@@ -1,5 +1,5 @@
-Changelog Version 0.0.3
+Changelog Version 0.0.2
 ---------------------------------------
-Revamped entire UI
+Maybe fixed LVGL Freezing
 ---------------------------------------
 File size: 1.3MB
