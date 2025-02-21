@@ -1,5 +1,5 @@
 Changelog Version 0.0.2
 ---------------------------------------
-Maybe fixed LVGL Freezing
+Matei sg pl
 ---------------------------------------
-File size: 1.3MB
+File size: pl
