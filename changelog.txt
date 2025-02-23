@@ -1,5 +1,5 @@
 Changelog Version 0.0.2
 ---------------------------------------
-Test
+Fixed WiFi Information Bug
 ---------------------------------------
 File size: 1.5MB
