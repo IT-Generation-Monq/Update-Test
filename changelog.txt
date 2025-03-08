@@ -1,5 +1,12 @@
 Changelog Version 0.0.2
 ---------------------------------------
-Fixed WiFi Information Bug
+Trying to fix Stuck issue.
+---------------------------------------
+WARNING! THIS MAY BREAK THE OS!
+MAY NEED TO REUPLOAD USING USB!
+---------------------------------------
+There isn't a downloading bar, you will just need to wait.
+If it dosen't restart/shows something, the update may failed.
+To see update error code, check Serial Monitor.
 ---------------------------------------
 File size: 1.5MB
