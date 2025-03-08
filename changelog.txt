@@ -8,5 +8,7 @@ MAY NEED TO REUPLOAD USING USB!
 There isn't a downloading bar, you will just need to wait.
 If it dosen't restart/shows something, the update may failed.
 To see update error code, check Serial Monitor.
+
+This update WILL NOT change version number, it is in changelog so that the update system works.
 ---------------------------------------
-File size: 1.5MB
+File size: 1.4MB
